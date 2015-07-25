@@ -30,4 +30,10 @@
     NSLog(@"终端push 成功后第一次提交");
 }
 
+- (void)push
+{
+    NSLog(@"终端Push");
+}
+
+
 @end
