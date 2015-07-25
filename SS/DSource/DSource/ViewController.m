@@ -27,7 +27,7 @@
 - (void)shou
 {
 
-
+    NSLog(@"终端push 成功后第一次提交");
 }
 
 @end
